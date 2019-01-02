@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/49636041-5037d300-f9b6-11e8-871b-edf5a5fbe6a6.png">
+  <img src="https://user-images.githubusercontent.com/45159366/50578198-2aea8900-0deb-11e9-917c-0cc98a231357.jpeg">
   <br />
   Chalice
 </h1>
